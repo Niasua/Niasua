@@ -33,7 +33,7 @@ Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en c
 🔹 [**To Do List**](https://niasua.github.io/Javascript-practice/toDoList/) — A clean task manager with edit/delete/check functions  
 🔹 [**Color Changer**](https://niasua.github.io/Javascript-practice/colorChanger/) — Change background colors at random  
 🔹 [**Calculator**](https://niasua.github.io/Javascript-practice/calculadora/) — Simple calculator with error handling  
-🔹 [**Page Marker**](https://niasua.github.io/Javascript-practice/pageMarker/) — Mark the page you left off in your book  
+🔹 [**Page Marker**](https://niasua.github.io/Javascript-practice/PageMarker/) — Mark the page you left off in your book  
 
 📁 You can find all of them in this repo: [**Javascript-practice**](https://github.com/niasua/Javascript-practice)
 
