@@ -1,21 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Nicolás Agustin Suarez</h1>
 
 <p align="center">
-  💻 Student of Computer Engineering | 💡 Self-taught Developer | 🇦🇷 Argentina
+  💻 Student of Computer Engineering | 💡 Self-taught Developer | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="20" />
 </p>
 <p align="center">
-  💻 Estudiante de Ingeniería en Informática | 💡 Autodidacta | 🇦🇷 Argentina
+  💻 Estudiante de Ingeniería en Informática | 💡 Autodidacta | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Bandera Argentina" width="20" />
 </p>
-
 
 ---
 
 ### 🌐 About me | Sobre mí
 
-🇬🇧 I’m currently studying Computer Engineering and deepening my knowledge in **JavaScript**, **React Native**, and **Node.js**.  
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="US Flag" width="20" /> I’m currently studying Computer Engineering and deepening my knowledge in **JavaScript**, **React Native**, and **Node.js**.  
 I enjoy building practical projects, learning by doing, and organizing my ideas into code.  
 
-🇪🇸 Actualmente estudio Ingeniería en Informática y estoy profundizando en **JavaScript**, **React Native** y **Node.js**.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="20" /> Actualmente estudio Ingeniería en Informática y estoy profundizando en **JavaScript**, **React Native** y **Node.js**.  
 Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en código.
 
 ---
@@ -53,6 +52,3 @@ Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en c
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-suarez-a055a3283/)
 - 🐙 [GitHub](https://github.com/niasua)
-
----
-
