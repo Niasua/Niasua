@@ -11,10 +11,10 @@
 
 ### 🌐 About me | Sobre mí
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="US Flag" width="20" /> I’m currently studying Computer Engineering and deepening my knowledge in **JavaScript**, **React Native**, and **Node.js**.  
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="US Flag" width="20" /> I’m currently studying Computer Engineering and deepening my knowledge in **C#** and **.NET**. 
 I enjoy building practical projects, learning by doing, and organizing my ideas into code.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="20" /> Actualmente estudio Ingeniería en Informática y estoy profundizando en **JavaScript**, **React Native** y **Node.js**.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="20" /> Actualmente estudio Ingeniería en Informática y estoy profundizando en **C#** y **.NET**..  
 Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en código.
 
 ---
@@ -22,7 +22,7 @@ Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en c
 ### 🧠 Currently Learning | Aprendiendo ahora mismo
 
 - 🌱 JavaScript (DOM, arrays, funciones)
-- ⚛️ React Native 
+- 🟪 C# Y .NET
 - 🌐 Backend con Node.js 
 - 📚 Git, GitHub, buenas prácticas de desarrollo
 
