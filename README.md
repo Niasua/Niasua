@@ -21,7 +21,6 @@ Disfruto crear proyectos útiles, aprender haciendo y transformar mis ideas en c
 
 ### 🧠 Currently Learning | Aprendiendo ahora mismo
 
-- 🌱 JavaScript (DOM, arrays, funciones)
 - 🟪 C# Y .NET
 - 🌐 Backend con Node.js 
 - 📚 Git, GitHub, buenas prácticas de desarrollo
